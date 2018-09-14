@@ -313,4 +313,4 @@ function play(guild, song) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login('NDg5MDIxMTcwNDM2NDA3Mjk5.DnyxYA.yll_xYkZa7I6v7i5uv241bwaGeM');
